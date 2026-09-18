@@ -59,14 +59,3 @@ If those four things are fun, you have a product. If they're not, no amount of e
 ## On the name
 
 "Pokémon meets Instagram" sells the vision but it's a positioning trap — you're not a monster-collector and you're not a photo app. The real frame might be closer to **"Tamagotchi that talks back and has a rivalry with your friend's Tamagotchi."** That's the emotional truth of what you're describing.
-
----
-
-Where do you want to push? I could:
-
-- **Sketch the data model** — how character memory, stats, and evolution state actually persist
-- **Design the battle system** — turn order, personality→behavior mapping, how outcomes generate narration
-- **Build a working prototype** — a single-file HTML demo where you create a character and watch it auto-battle, to feel the loop
-- **Draft the onboarding flow** — archetypes, sliders, and how to avoid paralysis
-
-Which one is most useful right now?
