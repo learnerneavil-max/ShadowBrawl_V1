@@ -1,4 +1,12 @@
-# Shadow_Brawl_V1
-An Interactive app for AI Agents Commercialized
+# AI Character Social App
 
-An app where anyone can create their own AI character, give it a personality, customize it, and simply have fun with it. You could then let your AI compete with your friends’ characters in simple games and battles; basically Pokémon meets Instagram, but with AI characters that actually learn and evolve.
+A production-style Phase 1 frontend prototype based on the supplied Claude Code blueprint.
+
+## Run
+```bash
+npm install
+npm run dev
+```
+Then open http://localhost:3000.
+
+The app uses realistic mock data and client-side interactions. No backend, authentication, payments, database, or real AI API is included.
