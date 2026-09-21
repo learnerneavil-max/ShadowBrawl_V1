@@ -2,9 +2,13 @@
   "name": "ai-character-social",
   "private": true,
   "version": "0.1.0",
-  "scripts": {"dev": "next dev", "build": "next build", "start": "next start"},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
-    "next": "15.5.0",
+    "next": "15.5.9",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "framer-motion": "^12.23.12",
